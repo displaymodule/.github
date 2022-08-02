@@ -12,7 +12,7 @@
 ## Who we are
 Display Module as display experts of smart devices, the online store has hundreds of prebuilt displays to meet inventors’ diverse needs. Through our custom design service, we can also design, source, and produce novel designs and shapes. We are working with enthusiasm industry leaders, tech startups, researches, and design engineers and procurement professionals across the diversity industries. 
 
-Display Module is a venture of NexPCB. 
+Display Module is a venture of [NexPCB](https://www.nexpcb.com). 
 
 For over 17 years, NexPCB has been one of the most trusted manufacturing partners in the IoT industry. We provide product realization services. We enable the production of novel IoT products with bespoke design optimization, rapid prototyping, mass production, and supply chain management. Most of the customers are IoT innovators across industries. 
 
